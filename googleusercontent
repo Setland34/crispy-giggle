@@ -1,0 +1,100 @@
+{
+  "account": {
+    "registered_on": "2022-09-11 19:03:36.000000000",
+    "_account_id": 1555288,
+    "name": "Seth Landry",
+    "display_name": "Seth Landry",
+    "email": "cajungotshop@gmail.com",
+    "secondary_emails": [
+      "setland7@googlegroups.com"
+    ],
+    "avatars": [
+      {
+        "url": "https://lh6.googleusercontent.com/-HZJNCEBwyQo/AAAAAAAAAAI/AAAAAAAAAAA/4Ru6-8OxXS0/s32-p/photo.jpg",
+        "height": 32
+      },
+      {
+        "url": "https://lh6.googleusercontent.com/-HZJNCEBwyQo/AAAAAAAAAAI/AAAAAAAAAAA/4Ru6-8OxXS0/s56-p/photo.jpg",
+        "height": 56
+      },
+      {
+        "url": "https://lh6.googleusercontent.com/-HZJNCEBwyQo/AAAAAAAAAAI/AAAAAAAAAAA/4Ru6-8OxXS0/s100-p/photo.jpg",
+        "height": 100
+      },
+      {
+        "url": "https://lh6.googleusercontent.com/-HZJNCEBwyQo/AAAAAAAAAAI/AAAAAAAAAAA/4Ru6-8OxXS0/s120-p/photo.jpg",
+        "height": 120
+      }
+    ],
+    "status": "GOOGLE  LLC"
+  },
+  "capabilities": {
+    "code-owners-canSkipCodeOwnerConfigValidation": true,
+    "emailReviewers": true,
+    "queryLimit": {
+      "min": 0,
+      "max": 500
+    }
+  },
+  "groups": [
+    {
+      "options": {},
+      "id": "global%3AAnonymous-Users",
+      "name": "Anonymous Public Users"
+    },
+    {
+      "url": "#/admin/groups/uuid-3868f18c81c3862f8c1820b5b7de1f89b25aa603",
+      "options": {
+        "visible_to_all": true
+      },
+      "description": "Users that have signed a CLA or should otherwise be visible",
+      "group_id": 5910,
+      "owner": "Host-Owners",
+      "owner_id": "b66a2e0b97b83a6c3b07d8f863385fade4b028f7",
+      "created_on": "2022-09-21 22:29:00.000000000",
+      "id": "3868f18c81c3862f8c1820b5b7de1f89b25aa603",
+      "name": "Public-Contributors"
+    },
+    {
+      "options": {},
+      "id": "google%3AAI2Pq9r_ksT_hfUOny8swsG8krQwPL5eOM0hGHf4QWGOPdy9igqsdhs",
+      "name": "google/google-union:signcla"
+    },
+    {
+      "options": {},
+      "id": "global%3ARegistered-Users",
+      "name": "Logged-in Public Users"
+    }
+  ],
+  "external_ids": [
+    {
+      "identity": "https://www.google.com/accounts/o8/id?g=AI2Pq9ry3lW4mAnlxcmRZHRSPU_6ViN4Zd2s_44K3oYflp1evN9aHL4",
+      "email_address": "cajungotshop@gmail.com",
+      "trusted": true
+    },
+    {
+      "identity": "https://www.google.com/accounts/o8/id?g=AI2Pq9qOatEq8CF2ZPstPH9VDKeqHVWpdo2ABtrMthX3Mz59ex8rfak",
+      "email_address": "setland33@gmail.com",
+      "trusted": true,
+      "can_delete": true
+    },
+    {
+      "identity": "mailto:setland7@googlegroups.com",
+      "email_address": "setland7@googlegroups.com",
+      "trusted": true,
+      "can_delete": true
+    }
+  ],
+  "metadata": [
+    {
+      "name": "gaiaId",
+      "value": "149017027310",
+      "description": "Gaia ID for email cajungotshop@gmail.com"
+    },
+    {
+      "name": "gaiaId",
+      "value": "447983656530",
+      "description": "Gaia ID for email setland33@gmail.com"
+    }
+  ]
+}
